@@ -1,0 +1,16 @@
+# Compiled object files & binaries
+bin/
+obj/
+posix-shell
+
+# Test artifacts
+test_out*.txt
+test_err*.txt
+*.tmp
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
